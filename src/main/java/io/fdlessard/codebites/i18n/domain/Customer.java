@@ -21,5 +21,4 @@ public class Customer implements Serializable {
     private String lastName;
 
     private String company;
-
 }
